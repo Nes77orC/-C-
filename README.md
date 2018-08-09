@@ -1,2 +1,1 @@
-# -C-
-Agregue al repositorio un nuevo archivo de texto llamado "C++"
+C++ es un lenguaje de programación de alto nivel, que es la base de los sistemas operativos, software licenciado y libre del mundo informático actual. Es curioso que pocas personas sean reconocidas por su contribución a la informática, sin embargo, uno de los más olvidados es Bjarne Stroustrup creador del lenguaje en el que se programaron aplicaciones como Photoshop, After Effects, Chrome, VLC, etc. Y sistemas operativos como Windows.
